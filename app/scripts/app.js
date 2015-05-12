@@ -13,8 +13,7 @@ angular
     'ngAnimate',
     'ngMessages',
     'ngRoute',
-    'restangular',
-    'ngTagsInput'
+    'restangular'
   ])
   .config(function ($routeProvider, RestangularProvider) {
 
